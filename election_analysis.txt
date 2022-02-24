@@ -1,0 +1,16 @@
+
+Election Results
+-------------------------
+Total Votes: 369,711
+-------------------------
+
+County Votes:
+38855 votes were cast in Jefferson. This represents 10.509560169970598 % of the total vote. 306055 votes were cast in Denver. This represents 82.78222719908253 % of the total vote. 24801 votes were cast in Arapahoe. This represents 6.708212630946875 % of the total vote. The county with the highest turnout is Denver with 306055 votes and 82.78222719908253% turnout.
+Charles Casper Stockham: 23.0% (85,213)
+Diana DeGette: 73.8% (272,892)
+Raymon Anthony Doane: 3.1% (11,606)
+-------------------------
+Winner: Diana DeGette
+Winning Vote Count: 272,892
+Winning Percentage: 73.8%
+-------------------------
